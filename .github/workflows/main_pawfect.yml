@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pawfect'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB1CD2E3F4CF44768D713D35D890DD85 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40ECE179F76A432BA066D65E7D88A624 }}
